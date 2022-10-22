@@ -1,0 +1,13 @@
+full stack developer is a term used to describe one who is both a frontend and backend developer. he has the skills
+to plan,design, develop and deploy a website to the internet using the required languages and tools needed.
+as a frontend developer, the necessary tools include Html, Css, Javascript, react, bootstrap, tailwind, grid, flex.
+and many more.
+As a backend developer, the necessary tools include Java, Python, Ruby, Django, spring, SQl,and many more.
+he is one who is expected to have knowledge on libraries, frameworks and other needed prerequisites.
+
+tools needed for a full stack developer includes
+- Computer
+- Text editors such as vscode, nano
+- Command line
+- Google
+- Learning and working communities.
