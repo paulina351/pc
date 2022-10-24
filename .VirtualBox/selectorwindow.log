@@ -1,0 +1,17 @@
+00:00:01.280295 VirtualBox GUI VM Selector Window 6.0.24 r139119 win.amd64 (Jul  9 2020 19:37:22) release log
+00:00:01.280298 Log opened 2022-10-08T15:35:37.817563300Z
+00:00:01.280299 Build Type: release
+00:00:01.280301 OS Product: Windows 10
+00:00:01.280303 OS Release: 10.0.18362
+00:00:01.280303 OS Service Pack: 
+00:00:01.302690 DMI Product Name: HP EliteBook 840 G2
+00:00:01.309655 DMI Product Version: A3008C510003
+00:00:01.309668 Host RAM: 3971MB (3.8GB) total, 784MB available
+00:00:01.309678 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.309679 Process ID: 7860
+00:00:01.309679 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.309888 Qt version: 5.6.2
+00:00:01.318043 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.318078 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:19.421722 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:19.450666 GUI: UIMediumEnumerator: Medium-enumeration finished!
